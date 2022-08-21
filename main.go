@@ -8,5 +8,14 @@ func main() {
 =======
 	fmt.Println("A")
 	fmt.Println("B")
+<<<<<<< HEAD
 }
+>>>>>>> development
+=======
+<<<<<<< HEAD
+}
+=======
+	fmt.Println("feature A")
+}
+>>>>>>> featureA
 >>>>>>> development
