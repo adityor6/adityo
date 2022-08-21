@@ -4,6 +4,7 @@ func main() {
 	fmt.Println("Hello world")
 	fmt.Println("A")
 	fmt.Println("B")
-	fmt.Println("featureA")
+	fmt.Println("feature A")
+
 }
 
