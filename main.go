@@ -1,15 +1,14 @@
 package main
 import "fmt"
 func main() {
-	fmt.Println("Hello world")
-<<<<<<< HEAD
+	fmt.Println("Hello world
 
-}
-=======
+
 	fmt.Println("A")
 	fmt.Println("B")
 <<<<<<< HEAD
 }
+<<<<<<< HEAD
 >>>>>>> development
 =======
 <<<<<<< HEAD
@@ -19,3 +18,6 @@ func main() {
 }
 >>>>>>> featureA
 >>>>>>> development
+=======
+
+>>>>>>> origin/master
